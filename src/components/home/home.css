@@ -1,0 +1,156 @@
+.home {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.intro {
+  max-width: 540px;
+  text-align: center;
+}
+
+.home-img {
+  margin-bottom: 1.5rem;
+  width: 200px;
+  height: auto;
+  border-radius: 50%;
+}
+
+.home-name {
+  font-size: var(--h1-font-size);
+  font-weight: var(--font-bold);
+  margin-bottom: 0.5rem;
+}
+
+.home-education {
+  font-size: var(--normal-font-size);
+  color: var(--text-color);
+  margin-bottom: 1.5rem;
+  display: block;
+}
+
+.home-socials {
+  display: flex;
+  justify-content: center;
+  column-gap: 1.75rem;
+  margin: 1.5rem 0;
+}
+
+.home-social-link {
+  color: var(--title-color);
+  font-size: 1.3rem;
+  transition: 0.3s;
+}
+
+.home-social-link:hover {
+  color: #00cea8;
+}
+
+.scroll-down {
+  position: absolute;
+  bottom: 2.5rem;
+  left: 0;
+  width: 100%;
+}
+
+.home-scroll-name {
+  font-size: var(--small-font-size);
+  color: var(--title-color);
+}
+
+.mouse {
+  border: 2px solid var(--text-color);
+  display: block;
+  height: 1.6rem;
+  width: 1.25rem;
+  margin: auto;
+  margin-top: 0.75rem;
+  border-radius: 1rem;
+  position: relative;
+}
+
+@keyframes ani-mouse {
+  0% {
+    top: 29%;
+  }
+  15% {
+    top: 50%;
+  }
+  50% {
+    top: 50%;
+  }
+  100% {
+    top: 29%;
+  }
+}
+
+.wheel {
+  background-color: var(--title-color);
+  border-radius: 100%;
+  width: 0.25rem;
+  height: 0.25rem;
+  position: absolute;
+  top: 0.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  animation: ani-mouse 2s linear infinite;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 1024px) {
+  .home-img {
+    width: 150px;
+  }
+
+  .home-social-link {
+    font-size: 1.125rem;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .home {
+    padding: 1rem;
+  }
+
+  .intro {
+    max-width: 90%;
+  }
+
+  .home-img {
+    width: 120px;
+  }
+
+  .home-name {
+    font-size: 2rem;
+  }
+
+  .home-education {
+    font-size: 1rem;
+  }
+
+  .btn {
+    font-size: 1rem;
+    padding: 0.75rem 1.5rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .home-name {
+    font-size: 1.75rem;
+  }
+
+  .home-img {
+    width: 100px;
+  }
+
+  .home-education {
+    font-size: 0.875rem;
+  }
+
+  .btn {
+    font-size: 0.875rem;
+    padding: 0.5rem 1rem;
+  }
+}

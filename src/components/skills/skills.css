@@ -1,0 +1,33 @@
+.services-container {
+  grid-template-columns: 2fr 2fr 2fr 2fr;
+  column-gap: 1rem;
+}
+.services-card {
+  text-align: center;
+  padding: 1.875rem;
+  border-radius: var(--border-radius);
+  background-color: var(--container-color);
+  box-shadow: var(--shadow);
+  transition: all 0.3s ease-in-out;
+}
+
+.services-img {
+  width: 4rem;
+  margin-bottom: 2.25rem;
+}
+.services-title {
+  font-size: var(--h3-font-size);
+  margin-bottom: 1rem;
+}
+@media screen and (max-width: 1024px) {
+  .services-container {
+    grid-template-columns: 330px 330px 330px 330px;
+    justify-content: center;
+    row-gap: 1.875rem;
+  }
+}
+@media screen and (max-width: 768px) {
+  .services-container {
+    grid-template-columns: 310px;
+  }
+}
