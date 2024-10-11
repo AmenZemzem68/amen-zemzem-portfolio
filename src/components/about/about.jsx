@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import Me from "../../assets/me-01.png";
+import amen from "../../assets/Me-01.png";
 import Skills from "../skills/skills";
 import CV from "../../assets/amen-zemzem-cv-en.pdf";
 
@@ -9,7 +9,12 @@ const about = () => {
     <section className="about container section" id="about">
       <h2 className="section-title">About Me.</h2>
       <div className="about-container grid">
-        <img src={Me} alt="" className="about-img" style={{ width: "150px" }} />
+        <img
+          src={amen}
+          alt=""
+          className="about-img"
+          style={{ width: "150px" }}
+        />
         <div className="about-data">
           <div className="about-info">
             <p className="about-description">
