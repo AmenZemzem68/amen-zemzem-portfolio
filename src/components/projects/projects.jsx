@@ -16,8 +16,9 @@ const projects = () => {
               scale: 1,
               speed: 450,
             }}
+            key={index}
           >
-            <div className="project-card" key={index}>
+            <div className="project-card">
               <div className="project-thumb">
                 <a href={project.source_code_link} target="_blank">
                   <span className="project-category">

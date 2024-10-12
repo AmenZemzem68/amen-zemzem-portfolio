@@ -43,8 +43,8 @@
   top: 1.25rem;
   left: 1.875rem;
   cursor: pointer;
-  height: 50px;
-  width: 55px;
+  height: 40px;
+  width: 45px;
   background-color: var(--body-color);
   border: 1px solid var(--text-color);
   display: none;
@@ -52,6 +52,7 @@
   align-items: center;
   z-index: 100;
   transition: 0.3s;
+  border-radius: var(--border-radius);
 }
 img {
   width: 100px;

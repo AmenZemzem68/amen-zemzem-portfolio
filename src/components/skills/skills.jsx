@@ -39,11 +39,9 @@ const skills = () => {
                 scale: 1,
                 speed: 450,
               }}
+              key={id}
             >
-              <div
-                className="services-card green-pink-gradient shadow-card"
-                key={id}
-              >
+              <div className="services-card green-pink-gradient shadow-card">
                 <img src={image} alt={title} className="services-img" />
                 <h3 className="services-title">{title}</h3>
               </div>

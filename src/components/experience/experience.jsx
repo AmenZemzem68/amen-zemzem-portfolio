@@ -5,7 +5,7 @@ import { Data } from "../../constants";
 
 const experience = () => {
   return (
-    <section className="experience container section">
+    <section className="experience container section" id="experience">
       <h2 className="section-title">Experience.</h2>
       <div className="experience-container grid">
         <div className="timeline grid">

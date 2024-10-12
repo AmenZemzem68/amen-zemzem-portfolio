@@ -7,6 +7,7 @@ import {
   GoMortarBoard,
   GoStack,
   GoCommentDiscussion,
+  GoX,
 } from "react-icons/go";
 import { GiHamburgerMenu } from "react-icons/gi";
 
@@ -58,7 +59,7 @@ const sidebar = () => {
         className={toggle ? "nav-toggle nav-toggle-open" : "nav-toggle"}
         onClick={() => showMenu(!toggle)}
       >
-        <GiHamburgerMenu fontSize={24} />
+        {toggle ? <GoX fontSize={22} /> : <GiHamburgerMenu fontSize={22} />}
       </div>
     </>
   );
