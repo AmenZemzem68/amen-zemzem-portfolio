@@ -8,6 +8,7 @@
   border-radius: var(--border-radius);
   overflow: hidden;
   height: 450px;
+  margin-top: 20px;
 }
 .project-thumb {
   position: relative;

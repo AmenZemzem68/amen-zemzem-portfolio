@@ -1,6 +1,7 @@
 import restauApp from "../assets/restauapp.png";
 import eramtecno from "../assets/eramtecno.jpg";
 import royal from "../assets/royal.png";
+import melt from "../assets/melt.png";
 const mProjects = [
   {
     name: "Restaurant App",
@@ -47,7 +48,7 @@ const mProjects = [
   {
     name: "Royal Flame",
     description:
-      "A restaurant website that features an elegant design for browsing menus & booking tables. It incorporates 3D models to enhance the user experience.",
+      "A restaurant landing page that features an elegant design for browsing menus & booking tables. It incorporates 3D models to enhance the user experience.",
     tags: [
       {
         name: "react",
@@ -58,12 +59,33 @@ const mProjects = [
         color: "#1D9275",
       },
       {
-        name: "laravel",
+        name: "Adobe Illustrator",
         color: "#43A7EC",
       },
     ],
     image: royal,
     source_code_link: "https://royal-flame.vercel.app/",
+  },
+  {
+    name: "Melt'n'Ice",
+    description:
+      "Melt 'n' Ice is a sleek landing page that highlights a variety of ice cream flavors, offering an elegant and engaging browsing experience.",
+    tags: [
+      {
+        name: "react",
+        color: "#AC2B61",
+      },
+      {
+        name: "tailwind css",
+        color: "#1D9275",
+      },
+      {
+        name: "Adobe Illustrator",
+        color: "#43A7EC",
+      },
+    ],
+    image: melt,
+    source_code_link: "https://melt-n-ice.vercel.app/",
   },
 ];
 const Data = [
