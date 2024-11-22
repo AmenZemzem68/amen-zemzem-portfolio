@@ -2,7 +2,7 @@ import React from "react";
 import "./about.css";
 import amen from "../../assets/Me-01.png";
 import Skills from "../skills/skills";
-import CV from "../../assets/amen-zemzem-cv-en.pdf";
+import CV from "../../assets/cv_amen_allah_zemzem.pdf";
 
 const about = () => {
   return (
