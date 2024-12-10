@@ -7,6 +7,13 @@ const experience = () => {
   return (
     <section className="experience container section" id="experience">
       <h2 className="section-title">Experience.</h2>
+      <p style={{ marginBottom: "1.5rem" }}>
+        The following experiences showcase the foundation of my journey,
+        including academic achievements and initial professional roles. Each
+        entry highlights the skills I developed, the challenges I tackled, and
+        the knowledge I gained, reflecting my commitment to growth and passion
+        for learning.
+      </p>
       <div className="experience-container grid">
         <div className="timeline grid">
           {Data.map((exp, index) => {

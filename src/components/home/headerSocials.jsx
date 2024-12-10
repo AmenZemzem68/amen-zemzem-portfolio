@@ -4,6 +4,7 @@ import {
   FaLinkedinIn,
   FaFacebookF,
   FaGithub,
+  FaBehance,
 } from "react-icons/fa6";
 
 const headerSocials = () => {
@@ -37,6 +38,13 @@ const headerSocials = () => {
         target="_blank"
       >
         <FaGithub />
+      </a>
+      <a
+        href="https://www.behance.net/amenzemzem"
+        className="home-social-link"
+        target="_blank"
+      >
+        <FaBehance />
       </a>
     </div>
   );

@@ -21,7 +21,7 @@
   border-right: 15px solid var(--container-color);
   position: absolute;
   left: -0.92rem;
-  top: 20%;
+  top: 50%;
 }
 .about-description {
   margin-bottom: 1rem;

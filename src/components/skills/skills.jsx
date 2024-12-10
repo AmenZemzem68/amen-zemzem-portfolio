@@ -1,7 +1,7 @@
 import React from "react";
 import { Tilt } from "react-tilt";
-import Image1 from "../../assets/atom.png";
-import Image2 from "../../assets/php.png";
+import Image1 from "../../assets/angular.png";
+import Image2 from "../../assets/dotnet.png";
 import Image3 from "../../assets/wordpress.png";
 import Image4 from "../../assets/illustrator.png";
 import "./skills.css";
