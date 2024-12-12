@@ -7,7 +7,7 @@ const experience = () => {
   return (
     <section className="experience container section" id="experience">
       <h2 className="section-title">Experience.</h2>
-      <p style={{ marginBottom: "1.5rem" }}>
+      <p style={{ marginBottom: "1.5rem", textAlign: "justify" }}>
         The following experiences showcase the foundation of my journey,
         including academic achievements and initial professional roles. Each
         entry highlights the skills I developed, the challenges I tackled, and

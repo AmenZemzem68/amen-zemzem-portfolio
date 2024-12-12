@@ -9,6 +9,7 @@ import {
   GoCommentDiscussion,
   GoX,
 } from "react-icons/go";
+import { HiOutlinePaintBrush } from "react-icons/hi2";
 import { GiHamburgerMenu } from "react-icons/gi";
 
 const sidebar = () => {
@@ -41,6 +42,11 @@ const sidebar = () => {
               <li className="nav-item">
                 <a href="#projects" className="nav-link">
                   <GoStack />
+                </a>
+              </li>
+              <li className="nav-item">
+                <a href="#designs" className="nav-link">
+                  <HiOutlinePaintBrush />
                 </a>
               </li>
               <li className="nav-item">
