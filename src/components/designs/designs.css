@@ -1,6 +1,6 @@
 .project-container {
   grid-template-columns: 1fr 1fr 1fr;
-  column-gap: 1.875rem;
+  column-gap: 1.25rem;
 }
 .project-card {
   background-color: var(--container-color);
@@ -53,19 +53,34 @@
 }
 @media screen and (max-width: 768px) {
   .project-container {
-    grid-template-columns: 310px;
+    grid-template-columns: 100%;
+  }
+  .filter-buttons {
+    justify-content: flex-start;
+    gap: 1rem;
   }
 }
 @media screen and (max-width: 350px) {
   .project-container {
     grid-template-columns: 1fr;
   }
+  .filter-buttons {
+    justify-content: center;
+    gap: 0.8rem;
+  }
+
+  .filter-button {
+    padding: 0.5rem 0.8rem;
+    font-size: 0.9rem;
+  }
 }
+/* Filter Buttons Styling */
 .filter-buttons {
   display: flex;
   justify-content: center;
   gap: 0.5rem;
   margin-bottom: 1.5rem;
+  flex-wrap: wrap; /* Allows buttons to wrap to the next line if space is limited */
 }
 
 .filter-button {

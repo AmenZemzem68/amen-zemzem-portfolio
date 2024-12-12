@@ -42,10 +42,14 @@ import royaleFlame from "../assets/designs/flame.png";
 import spiderMan from "../assets/designs/Spider Man.jpg";
 import stanSmith from "../assets/designs/Stan Smith.jpg";
 import superman from "../assets/designs/Super Man.jpg";
-import poster from "../assets/designs/crt poster.png";
+import poster from "../assets/designs/blood.png";
 import thor from "../assets/designs/Thor.jpg";
 import toyotaSupra from "../assets/designs/Toyota Supra.jpg";
 import xboxController from "../assets/designs/Xbox Controller.jpg";
+import toilette from "../assets/designs/toilette.png";
+import rules from "../assets/designs/rules.png";
+import kitchen from "../assets/designs/kitchen.png";
+import bag from "../assets/designs/bag.png";
 const mProjects = [
   {
     name: "Restaurant App",
@@ -204,6 +208,8 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/adidas",
+    description:
+      "A vector design inspired by Adidas sportswear and casual fashion.",
   },
   {
     name: "Air Jordan 1",
@@ -224,6 +230,8 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/airjordan1",
+    description:
+      "A vector illustration featuring the iconic Air Jordan 1 sneaker.",
   },
   {
     name: "Air Jordan 4",
@@ -244,6 +252,7 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/airjordan4",
+    description: "A vector design of the popular Air Jordan 4 basketball shoe.",
   },
   {
     name: "Astronaut",
@@ -255,7 +264,7 @@ const mDesigns = [
         color: "#AC2B61",
       },
       {
-        name: "advanture",
+        name: "adventure",
         color: "#1D9275",
       },
       {
@@ -264,6 +273,7 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/astronaut",
+    description: "A creative illustration of an astronaut in space.",
   },
   {
     name: "Batman",
@@ -284,6 +294,7 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/batman",
+    description: "A vector design of the iconic DC Comics superhero, Batman.",
   },
   {
     name: "Burger",
@@ -304,6 +315,7 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/burger",
+    description: "A vector design showcasing a delicious burger.",
   },
   {
     name: "Blood Donation poster",
@@ -311,7 +323,7 @@ const mDesigns = [
     image: poster,
     tags: [
       {
-        name: "red cresent",
+        name: "red crescent",
         color: "#AC2B61",
       },
       {
@@ -319,11 +331,12 @@ const mDesigns = [
         color: "#1D9275",
       },
       {
-        name: "valunteer",
+        name: "volunteer",
         color: "#43A7EC",
       },
     ],
     source_code_link: "https://example.com/burger",
+    description: "A poster design promoting blood donation and volunteerism.",
   },
   {
     name: "Captain America",
@@ -344,6 +357,7 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/captainamerica",
+    description: "A vector design of Marvel's superhero, Captain America.",
   },
   {
     name: "Casa&Co",
@@ -364,6 +378,8 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/casaco",
+    description:
+      "Branding design for Casa&Co, specializing in interior design.",
   },
   {
     name: "Chahd Abaya",
@@ -384,6 +400,8 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/chahdabaya",
+    description:
+      "Branding design for Chahd Abaya, a brand specializing in abayas.",
   },
   {
     name: "Action Departemnt logo",
@@ -404,6 +422,8 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/burger",
+    description:
+      "A clean logo design inspired by volunteer and emergency services.",
   },
   {
     name: "Chahd",
@@ -424,6 +444,8 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/chahd",
+    description:
+      "A stylized character design, showcasing a unique portrait in vector form.",
   },
   {
     name: "Coca Cola",
@@ -444,6 +466,7 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/cocacola",
+    description: "A classic product design for the beverage brand.",
   },
   {
     name: "Converse 2",
@@ -464,6 +487,7 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/converse2",
+    description: "A sleek sneaker design focusing on casual wear.",
   },
   {
     name: "Media Departemnt logo",
@@ -484,6 +508,8 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/burger",
+    description:
+      "A professional logo design for a media department with a volunteer-focused theme.",
   },
   {
     name: "Converse",
@@ -504,6 +530,8 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/converse",
+    description:
+      "A timeless sneaker design highlighting a classic style that’s synonymous with casual fashion.",
   },
   {
     name: "Curly Head Boy",
@@ -524,6 +552,8 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/curlyheadboy",
+    description:
+      "A charming character design featuring a portrait of a boy with curly hair, done in vector style.",
   },
   {
     name: "Formation Departemnt logo",
@@ -544,6 +574,8 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/burger",
+    description:
+      "A strong logo design symbolizing the mission of a volunteer-based formation department.",
   },
   {
     name: "Cute Car",
@@ -564,6 +596,8 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/cutecar",
+    description:
+      "A fun, adorable vector design of a car, capturing a playful and cute aesthetic.",
   },
   {
     name: "Dodge Challenger",
@@ -584,6 +618,8 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/dodgechallenger",
+    description:
+      "A bold and powerful muscle car design that embodies speed and strength.",
   },
   {
     name: "Flowers",
@@ -604,6 +640,8 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/flowers",
+    description:
+      "A vibrant floral illustration, capturing the beauty of nature in vector style.",
   },
   {
     name: "Lambo",
@@ -624,6 +662,8 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/lambo",
+    description:
+      "A sleek luxury sports car design that embodies speed and elegance.",
   },
   {
     name: "Libron James",
@@ -644,6 +684,8 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/libronjames",
+    description:
+      "A dynamic vector portrait of a basketball player, celebrating athleticism and skill.",
   },
   {
     name: "LilRobot",
@@ -664,6 +706,8 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/lilrobot",
+    description:
+      "A futuristic robot design in vector style, showcasing innovation and technology.",
   },
   {
     name: "Low Dunk",
@@ -684,6 +728,8 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/lowdunk",
+    description:
+      "A sporty sneaker design, ideal for performance and streetwear fashion.",
   },
   {
     name: "Melt'n'Ice",
@@ -704,6 +750,8 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/meltnice",
+    description:
+      "A cool and refreshing branding design for an ice cream brand, combining fun and elegance.",
   },
   {
     name: "Mercedes G Class",
@@ -724,6 +772,8 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/mercedesgclass",
+    description:
+      "A rugged yet luxurious design of the Mercedes G-Class, perfect for off-road adventures.",
   },
   {
     name: "MoonKnight",
@@ -744,6 +794,8 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/moonknight",
+    description:
+      "A heroic character design inspired by the Marvel superhero, Moon Knight.",
   },
   {
     name: "Motorcycle",
@@ -764,6 +816,8 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/motorcycle",
+    description:
+      "A stylish motorcycle design that captures the essence of speed and adventure.",
   },
   {
     name: "Mustang",
@@ -784,6 +838,8 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/mustang",
+    description:
+      "A powerful muscle car design that embodies raw speed and classic American style.",
   },
   {
     name: "New Balance",
@@ -803,6 +859,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
+    description:
+      "A clean and modern design for New Balance shoes, combining both casual and sporty elements.",
     source_code_link: "https://example.com/newbalance",
   },
   {
@@ -823,6 +881,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
+    description:
+      "A reimagined classic sneaker design for the Nike Blazer, focusing on simplicity and elegance.",
     source_code_link: "https://example.com/nikeblazer",
   },
   {
@@ -835,7 +895,7 @@ const mDesigns = [
         color: "#AC2B61",
       },
       {
-        name: "wild life",
+        name: "wildlife",
         color: "#1D9275",
       },
       {
@@ -843,6 +903,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
+    description:
+      "A playful and cute panda illustration, showcasing the beauty of wildlife.",
     source_code_link: "https://example.com/panda",
   },
   {
@@ -863,6 +925,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
+    description:
+      "A graceful and detailed vector design of a butterfly, capturing its delicate beauty.",
     source_code_link: "https://example.com/papillon",
   },
   {
@@ -883,6 +947,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
+    description:
+      "A sleek, luxurious Porsche design, focused on speed and elegance in the automotive world.",
     source_code_link: "https://example.com/porsche",
   },
   {
@@ -895,7 +961,7 @@ const mDesigns = [
         color: "#AC2B61",
       },
       {
-        name: "PlayStaion4",
+        name: "PlayStation4",
         color: "#1D9275",
       },
       {
@@ -903,6 +969,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
+    description:
+      "A modern design of the PlayStation 4 controller, combining functionality and style for gamers.",
     source_code_link: "https://example.com/ps4controller",
   },
   {
@@ -915,7 +983,7 @@ const mDesigns = [
         color: "#AC2B61",
       },
       {
-        name: "PlayStaion5",
+        name: "PlayStation5",
         color: "#1D9275",
       },
       {
@@ -923,6 +991,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
+    description:
+      "A futuristic design for the PlayStation 5 controller, with ergonomic and sleek features for optimal gaming.",
     source_code_link: "https://example.com/ps5controller",
   },
   {
@@ -943,6 +1013,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
+    description:
+      "A bold and modern branding design for Royale Flame restaurant, capturing the essence of fine dining.",
     source_code_link: "https://example.com/royaleflame",
   },
   {
@@ -963,6 +1035,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
+    description:
+      "A dynamic Spider Man illustration, drawn in vector style, embodying the Marvel superhero.",
     source_code_link: "https://example.com/spiderman",
   },
   {
@@ -983,6 +1057,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
+    description:
+      "A timeless design for Stan Smith sneakers, capturing the simplicity and elegance of the classic style.",
     source_code_link: "https://example.com/stansmith",
   },
   {
@@ -1003,6 +1079,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
+    description:
+      "A powerful vector illustration of Superman, showcasing the iconic superhero from DC Comics.",
     source_code_link: "...",
   },
   {
@@ -1023,6 +1101,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
+    description:
+      "A dynamic vector design of Thor, the mighty Norse god and superhero from Marvel Comics.",
     source_code_link: "https://example.com/thor",
   },
   {
@@ -1043,6 +1123,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
+    description:
+      "A sleek and powerful vector design of the Toyota Supra, representing speed in the automotive world.",
     source_code_link: "https://example.com/toyotasupra",
   },
   {
@@ -1063,6 +1145,96 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
+    description:
+      "A stylish and functional design for the Xbox controller, perfect for the gaming experience.",
+    source_code_link: "https://example.com/xboxcontroller",
+  },
+  {
+    name: "Toilet Rules Poster",
+    type: "Posters",
+    image: toilette,
+    tags: [
+      {
+        name: "rules",
+        color: "#AC2B61",
+      },
+      {
+        name: "valunteer",
+        color: "#1D9275",
+      },
+      {
+        name: "aahhmm",
+        color: "#43A7EC",
+      },
+    ],
+    description:
+      "A fun and informative poster displaying the essential toilet rules for a well-managed space.",
+    source_code_link: "https://example.com/xboxcontroller",
+  },
+  {
+    name: "General Rules Poster",
+    type: "Posters",
+    image: rules,
+    tags: [
+      {
+        name: "rules",
+        color: "#AC2B61",
+      },
+      {
+        name: "valunteer",
+        color: "#1D9275",
+      },
+      {
+        name: "aahhmm",
+        color: "#43A7EC",
+      },
+    ],
+    description:
+      "A visually appealing poster with general rules for an organized and cooperative environment.",
+    source_code_link: "https://example.com/xboxcontroller",
+  },
+  {
+    name: "Kitchen Rules Poster",
+    type: "Posters",
+    image: kitchen,
+    tags: [
+      {
+        name: "rules",
+        color: "#AC2B61",
+      },
+      {
+        name: "valunteer",
+        color: "#1D9275",
+      },
+      {
+        name: "aahhmm",
+        color: "#43A7EC",
+      },
+    ],
+    description:
+      "A poster with clear and easy-to-follow kitchen rules, ensuring a safe and efficient cooking environment.",
+    source_code_link: "https://example.com/xboxcontroller",
+  },
+  {
+    name: "Bag Design",
+    type: "Posters",
+    image: bag,
+    tags: [
+      {
+        name: "packaging",
+        color: "#AC2B61",
+      },
+      {
+        name: "valunteer",
+        color: "#1D9275",
+      },
+      {
+        name: "aahhmm",
+        color: "#43A7EC",
+      },
+    ],
+    description:
+      "A creative bag design that blends aesthetic with packaging, ideal for modern consumer goods.",
     source_code_link: "https://example.com/xboxcontroller",
   },
 ];

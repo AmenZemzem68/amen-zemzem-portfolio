@@ -79,6 +79,7 @@ const Designs = () => {
               </div>
               <div className="project-details">
                 <h3 className="project-title">{project.name}</h3>
+                <p className="project-description">{project.description}</p>
                 <div className="project-meta">
                   {project.tags.map((tag, index) => (
                     <span key={index} style={{ color: tag.color }}>
