@@ -69,7 +69,6 @@ const Designs = () => {
                   <img
                     src={project.image}
                     alt=""
-                    loading="lazy"
                     style={{
                       width: "100%",
                       height: "180px",
