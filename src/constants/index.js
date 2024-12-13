@@ -273,7 +273,8 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/astronaut",
-    description: "A creative illustration of an astronaut in space.",
+    description:
+      "A flat vector illustration of a cute astronaut, floating among stars, with clean lines and a whimsical touch.",
   },
   {
     name: "Batman",
@@ -294,7 +295,8 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/batman",
-    description: "A vector design of the iconic DC Comics superhero, Batman.",
+    description:
+      "A flat vector illustration of the iconic DC Comics superhero, Batman, featuring a dark aesthetic.",
   },
   {
     name: "Burger",
@@ -336,7 +338,8 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/burger",
-    description: "A poster design promoting blood donation and volunteerism.",
+    description:
+      "A poster design promoting blood donation , made for red cresent club ISSTE.",
   },
   {
     name: "Captain America",
@@ -357,10 +360,11 @@ const mDesigns = [
       },
     ],
     source_code_link: "https://example.com/captainamerica",
-    description: "A vector design of Marvel's superhero, Captain America.",
+    description:
+      "A flat vector illustration of Marvel's superhero, Captain America, featuring iconic shield elements.",
   },
   {
-    name: "Casa&Co",
+    name: "Casa&Co Logo",
     type: "Branding",
     image: casaCo,
     tags: [
@@ -379,10 +383,10 @@ const mDesigns = [
     ],
     source_code_link: "https://example.com/casaco",
     description:
-      "Branding design for Casa&Co, specializing in interior design.",
+      "Branding design for Casa&Co, a company specializing in interior design.",
   },
   {
-    name: "Chahd Abaya",
+    name: "Chahd Abaya Logo",
     type: "Branding",
     image: chahdAbaya,
     tags: [
@@ -401,10 +405,10 @@ const mDesigns = [
     ],
     source_code_link: "https://example.com/chahdabaya",
     description:
-      "Branding design for Chahd Abaya, a brand specializing in abayas.",
+      "Branding design for Chahd Abaya, showcasing elegance in crafting and selling premium abayas.",
   },
   {
-    name: "Action Departemnt logo",
+    name: "Action Department Logo",
     type: "Branding",
     image: action,
     tags: [
@@ -423,7 +427,7 @@ const mDesigns = [
     ],
     source_code_link: "https://example.com/burger",
     description:
-      "A clean logo design inspired by volunteer and emergency services.",
+      "A clean logo design, created for the Action Department of the Red Crescent Club at ISSTE.",
   },
   {
     name: "Chahd",
@@ -445,7 +449,7 @@ const mDesigns = [
     ],
     source_code_link: "https://example.com/chahd",
     description:
-      "A stylized character design, showcasing a unique portrait in vector form.",
+      "A stylized character illustration, showcasing a unique portrait in vector form.",
   },
   {
     name: "Coca Cola",
@@ -490,7 +494,7 @@ const mDesigns = [
     description: "A sleek sneaker design focusing on casual wear.",
   },
   {
-    name: "Media Departemnt logo",
+    name: "Media Department Logo",
     type: "Branding",
     image: media,
     tags: [
@@ -509,7 +513,7 @@ const mDesigns = [
     ],
     source_code_link: "https://example.com/burger",
     description:
-      "A professional logo design for a media department with a volunteer-focused theme.",
+      "A clean logo design, created for the Media Department of the Red Crescent Club at ISSTE.",
   },
   {
     name: "Converse",
@@ -556,7 +560,7 @@ const mDesigns = [
       "A charming character design featuring a portrait of a boy with curly hair, done in vector style.",
   },
   {
-    name: "Formation Departemnt logo",
+    name: "Formation Department Logo",
     type: "Branding",
     image: formation,
     tags: [
@@ -575,7 +579,7 @@ const mDesigns = [
     ],
     source_code_link: "https://example.com/burger",
     description:
-      "A strong logo design symbolizing the mission of a volunteer-based formation department.",
+      "A clean logo design, created for the Formation Department of the Red Crescent Club at ISSTE.",
   },
   {
     name: "Cute Car",
@@ -597,7 +601,7 @@ const mDesigns = [
     ],
     source_code_link: "https://example.com/cutecar",
     description:
-      "A fun, adorable vector design of a car, capturing a playful and cute aesthetic.",
+      "A flat vector illustration of a car, featuring a cute design, enhanced with gentle shadows and highlights.",
   },
   {
     name: "Dodge Challenger",
@@ -619,7 +623,7 @@ const mDesigns = [
     ],
     source_code_link: "https://example.com/dodgechallenger",
     description:
-      "A bold and powerful muscle car design that embodies speed and strength.",
+      "A flat vector illustration of the Dodge Challnger car, featuring shadows and highlights for depth.",
   },
   {
     name: "Flowers",
@@ -641,10 +645,10 @@ const mDesigns = [
     ],
     source_code_link: "https://example.com/flowers",
     description:
-      "A vibrant floral illustration, capturing the beauty of nature in vector style.",
+      "A vibrant vector illustration of flowers, capturing the beauty of nature in vector style.",
   },
   {
-    name: "Lambo",
+    name: "Lamborghini",
     type: "Automotive",
     image: lambo,
     tags: [
@@ -663,10 +667,10 @@ const mDesigns = [
     ],
     source_code_link: "https://example.com/lambo",
     description:
-      "A sleek luxury sports car design that embodies speed and elegance.",
+      "A flat vector illustration of the Lamborghini car, featuring clean lines and minimalist details.",
   },
   {
-    name: "Libron James",
+    name: "LeBron James",
     type: "Character Designs",
     image: libronJames,
     tags: [
@@ -685,7 +689,7 @@ const mDesigns = [
     ],
     source_code_link: "https://example.com/libronjames",
     description:
-      "A dynamic vector portrait of a basketball player, celebrating athleticism and skill.",
+      "A dynamic portrait of the basketball star, LeBron James, made in vector style.",
   },
   {
     name: "LilRobot",
@@ -732,7 +736,7 @@ const mDesigns = [
       "A sporty sneaker design, ideal for performance and streetwear fashion.",
   },
   {
-    name: "Melt'n'Ice",
+    name: "Melt'n'Ice Logo",
     type: "Branding",
     image: meltnIce,
     tags: [
@@ -773,7 +777,7 @@ const mDesigns = [
     ],
     source_code_link: "https://example.com/mercedesgclass",
     description:
-      "A rugged yet luxurious design of the Mercedes G-Class, perfect for off-road adventures.",
+      "A flat vector illustration of the Mercedes G-Class, complemented by shadows and highlights.",
   },
   {
     name: "MoonKnight",
@@ -795,7 +799,7 @@ const mDesigns = [
     ],
     source_code_link: "https://example.com/moonknight",
     description:
-      "A heroic character design inspired by the Marvel superhero, Moon Knight.",
+      "A dynamic vector illustartion of the heroic Marvel superhero, Moon Knight.",
   },
   {
     name: "Motorcycle",
@@ -817,7 +821,7 @@ const mDesigns = [
     ],
     source_code_link: "https://example.com/motorcycle",
     description:
-      "A stylish motorcycle design that captures the essence of speed and adventure.",
+      "A flat vector illustration of a motorcycle, featuring minimal details, with shadows and highlights.",
   },
   {
     name: "Mustang",
@@ -839,7 +843,7 @@ const mDesigns = [
     ],
     source_code_link: "https://example.com/mustang",
     description:
-      "A powerful muscle car design that embodies raw speed and classic American style.",
+      "A flat vector illustration of the Mustang car, reflecting the classic American style.",
   },
   {
     name: "New Balance",
@@ -904,7 +908,7 @@ const mDesigns = [
       },
     ],
     description:
-      "A playful and cute panda illustration, showcasing the beauty of wildlife.",
+      "A playful and cute vector illustration of a sleeping panda, capturing the charm and tranquility of wildlife.",
     source_code_link: "https://example.com/panda",
   },
   {
@@ -948,7 +952,7 @@ const mDesigns = [
       },
     ],
     description:
-      "A sleek, luxurious Porsche design, focused on speed and elegance in the automotive world.",
+      "A flat vector illustration of the Porsche car, highlighting sleek lines and minimalist details.",
     source_code_link: "https://example.com/porsche",
   },
   {
@@ -1124,7 +1128,7 @@ const mDesigns = [
       },
     ],
     description:
-      "A sleek and powerful vector design of the Toyota Supra, representing speed in the automotive world.",
+      "A flat vector illustration of the Toyota Supra car, enhanced with shadows and highlights",
     source_code_link: "https://example.com/toyotasupra",
   },
   {
@@ -1163,12 +1167,12 @@ const mDesigns = [
         color: "#1D9275",
       },
       {
-        name: "aahhmm",
+        name: "aahhm",
         color: "#43A7EC",
       },
     ],
     description:
-      "A fun and informative poster displaying the essential toilet rules for a well-managed space.",
+      "A fun and informative poster outlining the essential toilet rules, made for A.A.H.H.M Center.",
     source_code_link: "https://example.com/xboxcontroller",
   },
   {
@@ -1185,12 +1189,12 @@ const mDesigns = [
         color: "#1D9275",
       },
       {
-        name: "aahhmm",
+        name: "aahhm",
         color: "#43A7EC",
       },
     ],
     description:
-      "A visually appealing poster with general rules for an organized and cooperative environment.",
+      "A visually appealing poster with general rules, made for A.A.H.H.M Center.",
     source_code_link: "https://example.com/xboxcontroller",
   },
   {
@@ -1212,7 +1216,7 @@ const mDesigns = [
       },
     ],
     description:
-      "A poster with clear and easy-to-follow kitchen rules, ensuring a safe and efficient cooking environment.",
+      "A poster with clear and easy-to-follow kitchen rules, made for A.A.H.H.M Center.",
     source_code_link: "https://example.com/xboxcontroller",
   },
   {
@@ -1234,7 +1238,7 @@ const mDesigns = [
       },
     ],
     description:
-      "A creative bag design that blends aesthetic with packaging, ideal for modern consumer goods.",
+      "A creative bag design, specifically created for the health workshop organized by the A.A.H.H.M Center.",
     source_code_link: "https://example.com/xboxcontroller",
   },
 ];
