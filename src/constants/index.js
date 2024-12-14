@@ -13,7 +13,7 @@ import batman from "../assets/designs/Batman.jpg";
 import burger from "../assets/designs/Burger.jpg";
 import captainAmerica from "../assets/designs/Captain America.jpg";
 import casaCo from "../assets/designs/casa.png";
-import chahdAbaya from "../assets/designs/abaya1.png";
+import chahdAbaya from "../assets/designs/abaya3.jpg";
 import chahd from "../assets/designs/Chahd.jpg";
 import cocaCola from "../assets/designs/Coca Cola.jpg";
 import converse2 from "../assets/designs/Converse 2.jpg";
@@ -207,7 +207,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/adidas",
+    source_code_link:
+      "https://www.behance.net/gallery/214750759/Adidas-Shoe-Flat-Vector-Illustration",
     description:
       "A vector design inspired by Adidas sportswear and casual fashion.",
   },
@@ -229,7 +230,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/airjordan1",
+    source_code_link:
+      "https://www.behance.net/gallery/214749959/Air-Jordan-1-Vector-Illustration",
     description:
       "A vector illustration featuring the iconic Air Jordan 1 sneaker.",
   },
@@ -364,7 +366,7 @@ const mDesigns = [
       "A flat vector illustration of Marvel's superhero, Captain America, featuring iconic shield elements.",
   },
   {
-    name: "Casa&Co Logo",
+    name: "Casa&Co Branding",
     type: "Branding",
     image: casaCo,
     tags: [
@@ -381,12 +383,13 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/casaco",
+    source_code_link:
+      "https://www.behance.net/gallery/214748715/Casa-Co-Branding",
     description:
       "Branding design for Casa&Co, a company specializing in interior design.",
   },
   {
-    name: "Chahd Abaya Logo",
+    name: "Chahd Abaya Branding",
     type: "Branding",
     image: chahdAbaya,
     tags: [
@@ -403,7 +406,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/chahdabaya",
+    source_code_link:
+      "https://www.behance.net/gallery/214750987/Chahd-Abaya-Branding",
     description:
       "Branding design for Chahd Abaya, showcasing elegance in crafting and selling premium abayas.",
   },
@@ -425,7 +429,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/burger",
+    source_code_link:
+      "https://www.behance.net/gallery/214751249/Action-Department-Logo-of-the-Red-Crescent-Club-ISSTE",
     description:
       "A clean logo design, created for the Action Department of the Red Crescent Club at ISSTE.",
   },
@@ -511,7 +516,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/burger",
+    source_code_link:
+      "https://www.behance.net/gallery/214751395/Media-Department-Logo-of-the-Red-Crescent-Club-ISSTE",
     description:
       "A clean logo design, created for the Media Department of the Red Crescent Club at ISSTE.",
   },
@@ -577,7 +583,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/burger",
+    source_code_link:
+      "https://www.behance.net/gallery/214751491/Formation-Department-Logo-of-the-CRT-Club-at-ISSTE",
     description:
       "A clean logo design, created for the Formation Department of the Red Crescent Club at ISSTE.",
   },
@@ -665,7 +672,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/lambo",
+    source_code_link:
+      "https://www.behance.net/gallery/214749873/Lamborghini-Flat-Vector-Illustration",
     description:
       "A flat vector illustration of the Lamborghini car, featuring clean lines and minimalist details.",
   },
@@ -736,7 +744,7 @@ const mDesigns = [
       "A sporty sneaker design, ideal for performance and streetwear fashion.",
   },
   {
-    name: "Melt'n'Ice Logo",
+    name: "Melt'n'Ice Branding",
     type: "Branding",
     image: meltnIce,
     tags: [
@@ -753,7 +761,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/meltnice",
+    source_code_link:
+      "https://www.behance.net/gallery/214749079/MeltnIce-Branding",
     description:
       "A cool and refreshing branding design for an ice cream brand, combining fun and elegance.",
   },
@@ -1019,7 +1028,8 @@ const mDesigns = [
     ],
     description:
       "A bold and modern branding design for Royale Flame restaurant, capturing the essence of fine dining.",
-    source_code_link: "https://example.com/royaleflame",
+    source_code_link:
+      "https://www.behance.net/gallery/214751125/Royal-Flame-Branding",
   },
   {
     name: "Spider Man",
