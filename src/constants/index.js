@@ -253,7 +253,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/airjordan4",
+    source_code_link:
+      "https://www.behance.net/gallery/214788659/Air-Jordan-4-Flat-Vector-Illustration",
     description: "A vector design of the popular Air Jordan 4 basketball shoe.",
   },
   {
@@ -274,7 +275,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/astronaut",
+    source_code_link:
+      "https://www.behance.net/gallery/214788795/Astronaut-Flat-Vector-Illustration",
     description:
       "A flat vector illustration of a cute astronaut, floating among stars, with clean lines and a whimsical touch.",
   },
@@ -296,7 +298,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/batman",
+    source_code_link:
+      "https://www.behance.net/gallery/214788481/Batman-Flat-Vector-Illustration",
     description:
       "A flat vector illustration of the iconic DC Comics superhero, Batman, featuring a dark aesthetic.",
   },
@@ -318,7 +321,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/burger",
+    source_code_link:
+      "https://www.behance.net/gallery/214788991/Burger-Flat-Vector-Illustration",
     description: "A vector design showcasing a delicious burger.",
   },
   {
@@ -361,7 +365,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/captainamerica",
+    source_code_link:
+      "https://www.behance.net/gallery/214788943/Captain-America-Flat-Vector-Illustration",
     description:
       "A flat vector illustration of Marvel's superhero, Captain America, featuring iconic shield elements.",
   },
@@ -384,7 +389,7 @@ const mDesigns = [
       },
     ],
     source_code_link:
-      "https://www.behance.net/gallery/214748715/Casa-Co-Branding",
+      "https://www.behance.net/gallery/214787993/Casa-Co-Branding",
     description:
       "Branding design for Casa&Co, a company specializing in interior design.",
   },
@@ -452,7 +457,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/chahd",
+    source_code_link:
+      "https://www.behance.net/gallery/214788873/Chahd-Portrait",
     description:
       "A stylized character illustration, showcasing a unique portrait in vector form.",
   },
@@ -495,7 +501,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/converse2",
+    source_code_link:
+      "https://www.behance.net/gallery/214788347/Converse-Motion-CX-Flat-Vector-Illustration",
     description: "A sleek sneaker design focusing on casual wear.",
   },
   {
@@ -695,7 +702,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/libronjames",
+    source_code_link:
+      "https://www.behance.net/gallery/214788243/LeBron-James-Flat-Vector-Illustration",
     description:
       "A dynamic portrait of the basketball star, LeBron James, made in vector style.",
   },
@@ -762,7 +770,7 @@ const mDesigns = [
       },
     ],
     source_code_link:
-      "https://www.behance.net/gallery/214749079/MeltnIce-Branding",
+      "https://www.behance.net/gallery/214787753/MeltnIce-Branding",
     description:
       "A cool and refreshing branding design for an ice cream brand, combining fun and elegance.",
   },
@@ -784,7 +792,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/mercedesgclass",
+    source_code_link:
+      "https://www.behance.net/gallery/214788547/Mercedes-G-Class-Flat-Vector-Illustration",
     description:
       "A flat vector illustration of the Mercedes G-Class, complemented by shadows and highlights.",
   },
@@ -806,7 +815,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/moonknight",
+    source_code_link:
+      "https://www.behance.net/gallery/214788597/Moon-Knight-Flat-Vector-Illustration",
     description:
       "A dynamic vector illustartion of the heroic Marvel superhero, Moon Knight.",
   },
@@ -828,7 +838,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/motorcycle",
+    source_code_link:
+      "https://www.behance.net/gallery/214788177/Motorcycle-Flat-Vector-Illustration",
     description:
       "A flat vector illustration of a motorcycle, featuring minimal details, with shadows and highlights.",
   },
@@ -896,7 +907,8 @@ const mDesigns = [
     ],
     description:
       "A reimagined classic sneaker design for the Nike Blazer, focusing on simplicity and elegance.",
-    source_code_link: "https://example.com/nikeblazer",
+    source_code_link:
+      "https://www.behance.net/gallery/214788425/Nike-Blazer-Flat-Vector-Illustration",
   },
   {
     name: "Panda",
@@ -1161,7 +1173,8 @@ const mDesigns = [
     ],
     description:
       "A stylish and functional design for the Xbox controller, perfect for the gaming experience.",
-    source_code_link: "https://example.com/xboxcontroller",
+    source_code_link:
+      "https://www.behance.net/gallery/214788739/Xbox-Controller-Flat-Vector-Illustration",
   },
   {
     name: "Toilet Rules Poster",
