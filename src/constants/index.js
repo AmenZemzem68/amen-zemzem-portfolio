@@ -1,7 +1,8 @@
-import restauApp from "../assets/restauapp.png";
-import eramtecno from "../assets/eramtecno.jpg";
-import royal from "../assets/royal-flame.png";
-import melt from "../assets/melt.png";
+import restauApp from "../assets/projects/restauapp.png";
+import eramtecno from "../assets/projects/eramtecno.jpg";
+import royal from "../assets/projects/royal-flame.png";
+import melt from "../assets/projects/melt.png";
+import coding from "../assets/projects/codingart.png";
 import adidas from "../assets/designs/Adidas.jpg";
 import airJordan1 from "../assets/designs/Air Jordan 1.jpg";
 import action from "../assets/designs/action.png";
@@ -52,7 +53,7 @@ import kitchen from "../assets/designs/kitchen.png";
 import bag from "../assets/designs/bag.png";
 const mProjects = [
   {
-    name: "Restaurant App",
+    name: "Restaurant Application",
     description:
       "A cross-platform app for booking tables and placing orders, providing a convenient and efficient solution for effectively managing restaurant operations.",
     tags: [
@@ -73,7 +74,7 @@ const mProjects = [
     source_code_link: "https://github.com/AmenZemzem68/zemzem-amen-l3mdw-2024",
   },
   {
-    name: "Eram Tecno",
+    name: "Eram Tecno Website",
     description:
       "A WordPress-based website offers a wide range of home appliances for easy browsing and purchase. The admin dashboard manages inventory and tracks orders",
     tags: [
@@ -94,7 +95,7 @@ const mProjects = [
     source_code_link: "https://eramtecno.com/",
   },
   {
-    name: "Royal Flame",
+    name: "Royal Flame Landing Page",
     description:
       "A restaurant landing page that features an elegant design for browsing menus & booking tables. It incorporates 3D models to enhance the user experience.",
     tags: [
@@ -115,7 +116,7 @@ const mProjects = [
     source_code_link: "https://royal-flame.vercel.app/",
   },
   {
-    name: "Melt'n'Ice",
+    name: "Melt'n'Ice Landing Page",
     type: "personal",
     description:
       "Melt 'n' Ice is a sleek landing page that highlights a variety of ice cream flavors, offering an elegant and engaging browsing experience.",
@@ -135,6 +136,28 @@ const mProjects = [
     ],
     image: melt,
     source_code_link: "https://melt-n-ice.vercel.app/",
+  },
+  {
+    name: "Training Management App",
+    type: "personal",
+    description:
+      "A comprehensive application designed to manage training programs for company personnel, streamlining scheduling & reporting.",
+    tags: [
+      {
+        name: "php",
+        color: "#AC2B61",
+      },
+      {
+        name: "bootstrap",
+        color: "#1D9275",
+      },
+      {
+        name: "html",
+        color: "#43A7EC",
+      },
+    ],
+    image: coding,
+    source_code_link: "https://github.com/AmenZemzem68/training-management-app",
   },
 ];
 const Data = [
@@ -480,7 +503,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/cocacola",
+    source_code_link:
+      "https://www.behance.net/gallery/214854135/Coca-Cola-Flat-Vector-Illustration",
     description: "A classic product design for the beverage brand.",
   },
   {
@@ -546,7 +570,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/converse",
+    source_code_link:
+      "https://www.behance.net/gallery/214853565/Converse-Flat-Vector-Illustration",
     description:
       "A timeless sneaker design highlighting a classic style that’s synonymous with casual fashion.",
   },
@@ -568,7 +593,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/curlyheadboy",
+    source_code_link:
+      "https://www.behance.net/gallery/214852157/Cute-Boy-Flat-Vector-Illustration",
     description:
       "A charming character design featuring a portrait of a boy with curly hair, done in vector style.",
   },
@@ -613,7 +639,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/cutecar",
+    source_code_link:
+      "https://www.behance.net/gallery/214852827/Cute-Car-Flat-Vector-Illustration",
     description:
       "A flat vector illustration of a car, featuring a cute design, enhanced with gentle shadows and highlights.",
   },
@@ -657,7 +684,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/flowers",
+    source_code_link:
+      "https://www.behance.net/gallery/214854377/Flowers-Flat-Vector-Illustration",
     description:
       "A vibrant vector illustration of flowers, capturing the beauty of nature in vector style.",
   },
@@ -725,7 +753,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/lilrobot",
+    source_code_link:
+      "https://www.behance.net/gallery/214852595/LilRobot-Flat-Vector-Illustration",
     description:
       "A futuristic robot design in vector style, showcasing innovation and technology.",
   },
@@ -861,7 +890,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/mustang",
+    source_code_link:
+      "https://www.behance.net/gallery/214851983/Mustang-Flat-Vector-Illustration",
     description:
       "A flat vector illustration of the Mustang car, reflecting the classic American style.",
   },
@@ -930,7 +960,8 @@ const mDesigns = [
     ],
     description:
       "A playful and cute vector illustration of a sleeping panda, capturing the charm and tranquility of wildlife.",
-    source_code_link: "https://example.com/panda",
+    source_code_link:
+      "https://www.behance.net/gallery/214853949/Sleeping-Panda-Vector-Illustration",
   },
   {
     name: "Papillon",
@@ -974,7 +1005,8 @@ const mDesigns = [
     ],
     description:
       "A flat vector illustration of the Porsche car, highlighting sleek lines and minimalist details.",
-    source_code_link: "https://example.com/porsche",
+    source_code_link:
+      "https://www.behance.net/gallery/214854033/Porsche-Flat-Vector-Illustrator",
   },
   {
     name: "PS4 Controller",
@@ -996,7 +1028,8 @@ const mDesigns = [
     ],
     description:
       "A modern design of the PlayStation 4 controller, combining functionality and style for gamers.",
-    source_code_link: "https://example.com/ps4controller",
+    source_code_link:
+      "https://www.behance.net/gallery/214852305/PS4-Flat-Vector-Illustration",
   },
   {
     name: "PS5 Controller",
@@ -1018,7 +1051,8 @@ const mDesigns = [
     ],
     description:
       "A futuristic design for the PlayStation 5 controller, with ergonomic and sleek features for optimal gaming.",
-    source_code_link: "https://example.com/ps5controller",
+    source_code_link:
+      "https://www.behance.net/gallery/214854251/PS5-Controller-Flat-Vector-Illustration",
   },
   {
     name: "Royale Flame",
@@ -1063,7 +1097,8 @@ const mDesigns = [
     ],
     description:
       "A dynamic Spider Man illustration, drawn in vector style, embodying the Marvel superhero.",
-    source_code_link: "https://example.com/spiderman",
+    source_code_link:
+      "https://www.behance.net/gallery/214853847/Spider-Man-Flat-Vector-Illustration",
   },
   {
     name: "Stan Smith",
@@ -1085,7 +1120,8 @@ const mDesigns = [
     ],
     description:
       "A timeless design for Stan Smith sneakers, capturing the simplicity and elegance of the classic style.",
-    source_code_link: "https://example.com/stansmith",
+    source_code_link:
+      "https://www.behance.net/gallery/214853343/Stan-Smith-Shoe-Flat-Vector-Illustration",
   },
   {
     name: "Superman",
@@ -1107,7 +1143,8 @@ const mDesigns = [
     ],
     description:
       "A powerful vector illustration of Superman, showcasing the iconic superhero from DC Comics.",
-    source_code_link: "...",
+    source_code_link:
+      "https://www.behance.net/gallery/214853137/Superman-Flat-Vector-Illustration",
   },
   {
     name: "Thor",
@@ -1129,7 +1166,8 @@ const mDesigns = [
     ],
     description:
       "A dynamic vector design of Thor, the mighty Norse god and superhero from Marvel Comics.",
-    source_code_link: "https://example.com/thor",
+    source_code_link:
+      "https://www.behance.net/gallery/214852971/Thor-Flat-Vector-Illustration",
   },
   {
     name: "Toyota Supra",
