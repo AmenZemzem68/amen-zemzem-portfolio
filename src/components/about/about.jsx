@@ -18,12 +18,14 @@ const about = () => {
         <div className="about-data">
           <div className="about-info">
             <p className="about-description">
-              I'm a skilled web developer with experience in HTML , CSS , C# and
-              TypeScript, and expertise in frameworks like Angular and .NET. I'm
-              a quick learner and collaborate closely with clients to create
-              efficient, scalable, and user-friendly solutions that solve
-              real-world problems. Let's work together to bring your ideas to
-              life!
+              I'm a skilled web developer with experience in HTML, CSS, C#, and
+              TypeScript, and expertise in frameworks like Angular and .NET. I
+              have a passion for graphic design and a keen eye for aesthetics,
+              which I incorporate into my web development projects to create
+              visually appealing and functional designs. I'm a quick learner and
+              collaborate closely with clients to create efficient, scalable,
+              and user-friendly solutions that solve real-world problems. Let's
+              work together to bring your ideas to life!
             </p>
             <a href={CV} target="_blank" className="btn">
               Download CV
