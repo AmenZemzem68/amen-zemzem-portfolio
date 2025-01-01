@@ -13,7 +13,7 @@ import astronaut from "../assets/designs/Astronaut.jpg";
 import batman from "../assets/designs/Batman.jpg";
 import burger from "../assets/designs/Burger.jpg";
 import captainAmerica from "../assets/designs/Captain America.jpg";
-import casaCo from "../assets/designs/casa.png";
+import cavelle from "../assets/designs/cavelle.png";
 import chahdAbaya from "../assets/designs/abaya3.jpg";
 import chahd from "../assets/designs/Chahd.jpg";
 import cocaCola from "../assets/designs/Coca Cola.jpg";
@@ -394,9 +394,9 @@ const mDesigns = [
       "A flat vector illustration of Marvel's superhero, Captain America, featuring iconic shield elements.",
   },
   {
-    name: "Casa&Co Branding",
+    name: "Cavelle Branding",
     type: "Branding",
-    image: casaCo,
+    image: cavelle,
     tags: [
       {
         name: "interior",
@@ -412,7 +412,7 @@ const mDesigns = [
       },
     ],
     source_code_link:
-      "https://www.behance.net/gallery/214787993/Casa-Co-Branding",
+      "https://www.behance.net/gallery/215837569/Cavelle-Branding",
     description:
       "Branding design for Casa&Co, a company specializing in interior design.",
   },
