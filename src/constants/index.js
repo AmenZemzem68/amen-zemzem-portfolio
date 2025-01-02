@@ -48,6 +48,7 @@ import thor from "../assets/designs/Thor.jpg";
 import toyotaSupra from "../assets/designs/Toyota Supra.jpg";
 import xboxController from "../assets/designs/Xbox Controller.jpg";
 import toilette from "../assets/designs/toilette.png";
+import workshop from "../assets/designs/workshop.png";
 import rules from "../assets/designs/rules.png";
 import kitchen from "../assets/designs/kitchen.png";
 import bag from "../assets/designs/bag.png";
@@ -1213,6 +1214,28 @@ const mDesigns = [
       "A stylish and functional design for the Xbox controller, perfect for the gaming experience.",
     source_code_link:
       "https://www.behance.net/gallery/214788739/Xbox-Controller-Flat-Vector-Illustration",
+  },
+  {
+    name: "Health Workshop Poster",
+    type: "Posters",
+    image: workshop,
+    tags: [
+      {
+        name: "workshop",
+        color: "#AC2B61",
+      },
+      {
+        name: "valunteer",
+        color: "#1D9275",
+      },
+      {
+        name: "aahhm",
+        color: "#43A7EC",
+      },
+    ],
+    description:
+      "A fun and informative poster outlining the essential toilet rules, made for A.A.H.H.M Center.",
+    source_code_link: "https://www.behance.net/gallery/215671203/AAHHM-Project",
   },
   {
     name: "Toilet Rules Poster",
