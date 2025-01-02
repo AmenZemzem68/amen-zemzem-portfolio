@@ -32,13 +32,11 @@ const projects = () => {
                     <FaGithub style={{ fontSize: "24px" }} />
                   </span>
                 </a>
-                <a href="">
-                  <img
-                    src={project.image}
-                    alt=""
-                    style={{ width: "100%", height: "180px" }}
-                  />
-                </a>
+                <img
+                  src={project.image}
+                  alt=""
+                  style={{ width: "100%", height: "180px" }}
+                />
               </div>
               <div className="project-details">
                 <h3 className="project-title">{project.name}</h3>
