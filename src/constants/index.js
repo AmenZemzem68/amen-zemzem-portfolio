@@ -1,4 +1,5 @@
 import restauApp from "../assets/projects/restauapp.png";
+import me from "../assets/designs/me.png";
 import eramtecno from "../assets/projects/eramtecno.jpg";
 import royal from "../assets/projects/royal-flame.png";
 import melt from "../assets/projects/melt.png";
@@ -367,7 +368,8 @@ const mDesigns = [
         color: "#43A7EC",
       },
     ],
-    source_code_link: "https://example.com/burger",
+    source_code_link:
+      "https://www.behance.net/gallery/215906717/Blood-Donation-Poster",
     description:
       "A poster design promoting blood donation , made for red cresent club ISSTE.",
   },
@@ -415,7 +417,7 @@ const mDesigns = [
     source_code_link:
       "https://www.behance.net/gallery/215837569/Cavelle-Branding",
     description:
-      "Branding design for Casa&Co, a company specializing in interior design.",
+      "Branding design for Cavelle, a company specializing in interior design.",
   },
   {
     name: "Chahd Abaya Branding",
@@ -462,6 +464,29 @@ const mDesigns = [
       "https://www.behance.net/gallery/214751249/Action-Department-Logo-of-the-Red-Crescent-Club-ISSTE",
     description:
       "A clean logo design, created for the Action Department of the Red Crescent Club at ISSTE.",
+  },
+  {
+    name: "My Personal Logo",
+    type: "Branding",
+    image: me,
+    tags: [
+      {
+        name: "tech",
+        color: "#AC2B61",
+      },
+      {
+        name: "adev",
+        color: "#1D9275",
+      },
+      {
+        name: "vector",
+        color: "#43A7EC",
+      },
+    ],
+    source_code_link:
+      "https://www.behance.net/gallery/215909889/My-Personal-Logo",
+    description:
+      "Branding design for me, highlighting creativity in web development and design.",
   },
   {
     name: "Chahd",
