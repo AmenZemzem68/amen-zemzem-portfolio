@@ -14,7 +14,7 @@ import batman from "../assets/designs/Batman.jpg";
 import burger from "../assets/designs/Burger.jpg";
 import captainAmerica from "../assets/designs/Captain America.jpg";
 import cavelle from "../assets/designs/cavelle.png";
-import chahdAbaya from "../assets/designs/abaya3.jpg";
+import chahdAbaya from "../assets/designs/abaya3.png";
 import chahd from "../assets/designs/Chahd.jpg";
 import cocaCola from "../assets/designs/Coca Cola.jpg";
 import converse2 from "../assets/designs/Converse 2.jpg";
