@@ -8,7 +8,7 @@
   border-radius: var(--border-radius);
   position: relative;
   box-shadow: var(--shadow);
-  height: 420px;
+  height: 430px;
   overflow: auto;
 }
 .timeline::-webkit-scrollbar {
@@ -70,10 +70,16 @@
   .timeline-item::before {
     left: 2px;
   }
+  .timeline {
+    height: auto;
+  }
 }
 @media screen and (max-width: 576px) {
   .experience-container {
     grid-template-columns: 1fr;
+  }
+  .timeline {
+    height: auto;
   }
 }
 @media screen and (max-width: 350px) {

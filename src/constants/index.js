@@ -1234,7 +1234,7 @@ const mDesigns = [
       },
     ],
     description:
-      "A fun and informative poster outlining the essential toilet rules, made for A.A.H.H.M Center.",
+      "An informative poster outlining essential health care tips, designed for the A.A.H.H.M Center workshop.",
     source_code_link: "https://www.behance.net/gallery/215671203/AAHHM-Project",
   },
   {
