@@ -475,7 +475,7 @@ const mDesigns = [
         color: "#AC2B61",
       },
       {
-        name: "adev",
+        name: "dev",
         color: "#1D9275",
       },
       {
