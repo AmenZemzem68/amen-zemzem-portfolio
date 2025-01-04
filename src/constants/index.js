@@ -1,4 +1,5 @@
 import restauApp from "../assets/projects/restauapp.png";
+import bahjat from "../assets/projects/bahjat.png";
 import me from "../assets/designs/me.png";
 import eramtecno from "../assets/projects/eramtecno.jpg";
 import royal from "../assets/projects/royal-flame.png";
@@ -55,45 +56,24 @@ import kitchen from "../assets/designs/kitchen.png";
 import bag from "../assets/designs/bag.png";
 const mProjects = [
   {
-    name: "Restaurant Application",
+    name: "Bahjat Website",
     description:
-      "A cross-platform app for booking tables and placing orders, providing a convenient and efficient solution for effectively managing restaurant operations.",
-    tags: [
-      {
-        name: "ionic",
-        color: "#AC2B61",
-      },
-      {
-        name: "sql",
-        color: "#1D9275",
-      },
-      {
-        name: ".net",
-        color: "#43A7EC",
-      },
-    ],
-    image: restauApp,
-    source_code_link: "https://github.com/AmenZemzem68/zemzem-amen-l3mdw-2024",
-  },
-  {
-    name: "Eram Tecno Website",
-    description:
-      "A WordPress-based website offers a wide range of home appliances for easy browsing and purchase. The admin dashboard manages inventory and tracks orders",
+      "A WordPress-based website showcases the portfolio of Bahjat Al Khawir, an Omani construction company, featuring their range of completed projects and services.",
     tags: [
       {
         name: "wordpress",
         color: "#AC2B61",
       },
       {
-        name: "e-commerce",
+        name: "construction",
         color: "#1D9275",
       },
       {
-        name: "porto",
+        name: "portfolio",
         color: "#43A7EC",
       },
     ],
-    image: eramtecno,
+    image: bahjat,
     source_code_link: "https://eramtecno.com/",
   },
   {
@@ -138,6 +118,48 @@ const mProjects = [
     ],
     image: melt,
     source_code_link: "https://melt-n-ice.vercel.app/",
+  },
+  {
+    name: "Restaurant Application",
+    description:
+      "A cross-platform app for booking tables and placing orders, providing a convenient and efficient solution for effectively managing restaurant operations.",
+    tags: [
+      {
+        name: "ionic",
+        color: "#AC2B61",
+      },
+      {
+        name: "sql",
+        color: "#1D9275",
+      },
+      {
+        name: ".net",
+        color: "#43A7EC",
+      },
+    ],
+    image: restauApp,
+    source_code_link: "https://github.com/AmenZemzem68/zemzem-amen-l3mdw-2024",
+  },
+  {
+    name: "Eram Tecno Website",
+    description:
+      "A WordPress-based website offers a wide range of home appliances for easy browsing and purchase. The admin dashboard manages inventory and tracks orders",
+    tags: [
+      {
+        name: "wordpress",
+        color: "#AC2B61",
+      },
+      {
+        name: "e-commerce",
+        color: "#1D9275",
+      },
+      {
+        name: "porto",
+        color: "#43A7EC",
+      },
+    ],
+    image: eramtecno,
+    source_code_link: "https://eramtecno.com/",
   },
   {
     name: "Training Management App",
