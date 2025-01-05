@@ -43,6 +43,7 @@
   width: 0.5rem !important;
   height: 0.375rem !important;
   background-color: var(--first-color) !important;
+  transition: 0.3s ease;
 }
 .swiper-pagination-horizontal
   .swiper-pagination-bullets

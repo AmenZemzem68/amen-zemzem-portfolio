@@ -51,7 +51,9 @@ const Feedbacks = () => {
     <section className="testimonials container section">
       <h2 className="section-title">Testimonials.</h2>
       <p style={{ textAlign: "justify", marginBottom: "2rem" }}>
-        What others say.
+        Discover the experiences and feedback from those who have worked with
+        me. Their words reflect the trust and satisfaction i strive to achieve
+        every day.
       </p>
       <Swiper
         className="testimonials-container grid"
