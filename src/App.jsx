@@ -7,6 +7,7 @@ import Experience from "./components/experience/experience";
 import Designs from "./components/designs/designs";
 
 import "./App.css";
+import Feedbacks from "./components/feedbacks/feedbacks";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Experience />
         <Projects />
         <Designs />
+        <Feedbacks />
         <Contact />
       </main>
     </>
