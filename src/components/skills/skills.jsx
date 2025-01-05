@@ -9,12 +9,12 @@ const data = [
   {
     id: 1,
     image: Image1,
-    title: "Front-End",
+    title: "Angular",
   },
   {
     id: 2,
     image: Image2,
-    title: "Back-End",
+    title: ".NET",
   },
   {
     id: 3,
