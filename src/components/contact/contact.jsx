@@ -72,6 +72,7 @@ const contact = () => {
         <div className="contact-info">
           <h3 className="contact-title">Let's work together!</h3>
           <p className="contact-details">Don't like forms? Send me an email.</p>
+          <p className="contact-details">zemzemamen68@gmail.com</p>
         </div>
         <form ref={formRef} onSubmit={handleSubmit} className="contact-form">
           <div className="contact-form-group">
