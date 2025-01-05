@@ -1012,7 +1012,7 @@ const mDesigns = [
       "https://www.behance.net/gallery/214853949/Sleeping-Panda-Vector-Illustration",
   },
   {
-    name: "Papillon",
+    name: "Butterfly",
     type: "Creative Illustrations",
     image: papillon,
     tags: [
@@ -1031,7 +1031,8 @@ const mDesigns = [
     ],
     description:
       "A graceful and detailed vector design of a butterfly, capturing its delicate beauty.",
-    source_code_link: "https://example.com/papillon",
+    source_code_link:
+      "https://www.behance.net/gallery/216082335/Butterfly-Flat-Vector-Illustration",
   },
   {
     name: "Porsche",
