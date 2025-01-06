@@ -24,8 +24,8 @@ const Feedbacks = () => {
     {
       id: 2,
       image: eram,
-      title: "Eram Tecno",
-      subtitle: "CEO",
+      title: "Mahmoud Al Maawali",
+      subtitle: "Chief Executive Officer at Eram Tecno",
       comment:
         "Amen developed a fantastic e-commerce website for us that was both functional and visually appealing. His expertise in development brought our vision to life, and the platform has been a great success. We couldn't be happier with the results!",
     },
@@ -37,18 +37,10 @@ const Feedbacks = () => {
       comment:
         "Working with Amen on our logo design was an absolute pleasure. He captured the essence of our brand with a clean, elegant, and modern logo that perfectly represents Chahd Abaya. The process was smooth, and his creativity exceeded our expectations. Highly recommended!",
     },
-    {
-      id: 4,
-      image: crt,
-      title: "Maryem Bhouri",
-      subtitle: "Red Cresent Club President",
-      comment:
-        "Amen’s designs for our logos and posters were outstanding. His work beautifully reflected our mission and values while maintaining a professional and creative touch. We are grateful for his hard work and dedication to our cause! We highly recommend him.",
-    },
   ];
 
   return (
-    <section className="testimonials container section">
+    <section className="testimonials container section" id="testimonials">
       <h2 className="section-title">Testimonials.</h2>
       <p style={{ textAlign: "justify", marginBottom: "2rem" }}>
         Discover the experiences and feedback from those who have worked with

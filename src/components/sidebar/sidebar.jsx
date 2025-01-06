@@ -9,6 +9,7 @@ import {
   GoCommentDiscussion,
   GoX,
 } from "react-icons/go";
+import { VscFeedback } from "react-icons/vsc";
 import { HiOutlinePaintBrush } from "react-icons/hi2";
 import { GiHamburgerMenu } from "react-icons/gi";
 
@@ -52,6 +53,11 @@ const sidebar = () => {
               <li className="nav-item">
                 <a href="#contact" className="nav-link">
                   <GoCommentDiscussion />
+                </a>
+              </li>
+              <li className="nav-item">
+                <a href="#testimonials" className="nav-link">
+                  <VscFeedback />
                 </a>
               </li>
             </ul>
