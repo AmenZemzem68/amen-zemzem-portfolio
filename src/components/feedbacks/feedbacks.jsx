@@ -32,19 +32,27 @@ const Feedbacks = () => {
     },
     {
       id: 3,
+      image: crt,
+      title: "Wissal Chammakhi",
+      subtitle: "President of the Red Crescent Club, ISSTE",
+      comment:
+        "Amen’s designs for our logos and posters were outstanding. His work beautifully reflected our mission and values while maintaining a professional and creative touch. We are grateful for their hard work and dedication to our cause. Highly recommended !",
+    },
+    {
+      id: 4,
       image: eram,
       title: "Mahmoud Al Maawali",
       subtitle: "Chief Executive Officer at Eram Tecno",
       comment:
-        "Amen developed a fantastic e-commerce website for us that was both functional and visually appealing. His expertise in development brought our vision to life, and the platform has been a great success. We couldn't be happier with the results!",
+        "Amen developed an e-commerce website for us that was both functional and visually appealing. His expertise in development brought our vision to life, and the platform has been a great success. We couldn't be happier with the results and we highly recommend his services",
     },
     {
-      id: 4,
+      id: 5,
       image: chahd,
       title: "Chahd Soussi",
       subtitle: "Founder of Chahd Abaya",
       comment:
-        "Working with Amen on our logo design was an absolute pleasure. He captured the essence of our brand with a clean, elegant, and modern logo that perfectly represents Chahd Abaya. The process was smooth, and his creativity exceeded our expectations. Highly recommended!",
+        "Working with Amen on our logo design was an absolute pleasure. He captured the essence of our brand with a clean, elegant, and modern logo that perfectly represents Chahd Abaya. The process was smooth, and his creativity exceeded our expectations.",
     },
   ];
 
