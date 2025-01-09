@@ -7,6 +7,7 @@ import "swiper/css/navigation";
 import "swiper/css/pagination";
 import "swiper/css/scrollbar";
 import crt from "../../assets/crt.png";
+import sb from "../../assets/sb.jpg";
 import eram from "../../assets/eram.png";
 import chahd from "../../assets/chahd.png";
 import aahhm from "../../assets/aahhm.png";
@@ -23,6 +24,14 @@ const Feedbacks = () => {
     },
     {
       id: 2,
+      image: sb,
+      title: "Oussama Boufaied",
+      subtitle: "SB Brand Founder",
+      comment:
+        "Amen is a highly creative designer with strong visual storytelling skills. Their innovative approach demonstrates a clear passion for design and an ability to think outside the box. With a focus on aligning designs to project goals, their talent will undoubtedly shine in future endeavors.",
+    },
+    {
+      id: 3,
       image: eram,
       title: "Mahmoud Al Maawali",
       subtitle: "Chief Executive Officer at Eram Tecno",
@@ -30,7 +39,7 @@ const Feedbacks = () => {
         "Amen developed a fantastic e-commerce website for us that was both functional and visually appealing. His expertise in development brought our vision to life, and the platform has been a great success. We couldn't be happier with the results!",
     },
     {
-      id: 3,
+      id: 4,
       image: chahd,
       title: "Chahd Soussi",
       subtitle: "Founder of Chahd Abaya",

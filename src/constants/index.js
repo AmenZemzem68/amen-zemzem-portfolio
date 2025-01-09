@@ -9,6 +9,7 @@ import adidas from "../assets/designs/Adidas.jpg";
 import airJordan1 from "../assets/designs/Air Jordan 1.jpg";
 import action from "../assets/designs/action.png";
 import media from "../assets/designs/media.png";
+import sb from "../assets/designs/sb.png";
 import formation from "../assets/designs/formation.png";
 import airJordan4 from "../assets/designs/Air Jordan 4.jpg";
 import astronaut from "../assets/designs/Astronaut.jpg";
@@ -463,6 +464,51 @@ const mDesigns = [
       "https://www.behance.net/gallery/214750987/Chahd-Abaya-Branding",
     description:
       "Branding design for Chahd Abaya, showcasing elegance in crafting and selling premium abayas.",
+  },
+  {
+    name: "SB Branding",
+    type: "Branding",
+    image: sb,
+    tags: [
+      {
+        name: "perfumes",
+        color: "#AC2B61",
+      },
+      {
+        name: "branding",
+        color: "#1D9275",
+      },
+      {
+        name: "logo",
+        color: "#43A7EC",
+      },
+    ],
+    source_code_link: "https://www.behance.net/gallery/216439031/SB-Branding",
+    description:
+      "Branding design for SB, a brand specializing in high-end perfumes & watches.",
+  },
+  {
+    name: "Royale Flame",
+    type: "Branding",
+    image: royaleFlame,
+    tags: [
+      {
+        name: "restaurant",
+        color: "#AC2B61",
+      },
+      {
+        name: "branding",
+        color: "#1D9275",
+      },
+      {
+        name: "vector",
+        color: "#43A7EC",
+      },
+    ],
+    description:
+      "A bold and modern branding design for Royale Flame restaurant, capturing the essence of fine dining.",
+    source_code_link:
+      "https://www.behance.net/gallery/214751125/Royal-Flame-Branding",
   },
   {
     name: "Action Department Logo",
@@ -1103,29 +1149,7 @@ const mDesigns = [
     source_code_link:
       "https://www.behance.net/gallery/214854251/PS5-Controller-Flat-Vector-Illustration",
   },
-  {
-    name: "Royale Flame",
-    type: "Branding",
-    image: royaleFlame,
-    tags: [
-      {
-        name: "restaurant",
-        color: "#AC2B61",
-      },
-      {
-        name: "branding",
-        color: "#1D9275",
-      },
-      {
-        name: "vector",
-        color: "#43A7EC",
-      },
-    ],
-    description:
-      "A bold and modern branding design for Royale Flame restaurant, capturing the essence of fine dining.",
-    source_code_link:
-      "https://www.behance.net/gallery/214751125/Royal-Flame-Branding",
-  },
+
   {
     name: "Spider Man",
     type: "Character Designs",
