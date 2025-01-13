@@ -51,13 +51,13 @@ const sidebar = () => {
                 </a>
               </li>
               <li className="nav-item">
-                <a href="#contact" className="nav-link">
-                  <GoCommentDiscussion />
+                <a href="#testimonials" className="nav-link">
+                  <VscFeedback />
                 </a>
               </li>
               <li className="nav-item">
-                <a href="#testimonials" className="nav-link">
-                  <VscFeedback />
+                <a href="#contact" className="nav-link">
+                  <GoCommentDiscussion />
                 </a>
               </li>
             </ul>
