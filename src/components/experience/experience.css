@@ -8,7 +8,7 @@
   border-radius: var(--border-radius);
   position: relative;
   box-shadow: var(--shadow);
-  height: 430px;
+  height: 485px;
   overflow: auto;
 }
 .timeline::-webkit-scrollbar {

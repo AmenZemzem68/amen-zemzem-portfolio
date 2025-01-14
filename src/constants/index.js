@@ -102,7 +102,7 @@ const mProjects = [
     name: "Melt'n'Ice Landing Page",
     type: "personal",
     description:
-      "Melt 'n' Ice is a sleek landing page that highlights a variety of ice cream flavors, offering an elegant and engaging browsing experience.",
+      "Melt 'n' Ice is a sleek and modern landing page that showcases a variety of ice cream flavors, providing users with engaging browsing experience.",
     tags: [
       {
         name: "react",
@@ -144,7 +144,7 @@ const mProjects = [
   {
     name: "Eram Tecno Website",
     description:
-      "A WordPress-based website offers a wide range of home appliances for easy browsing and purchase. The admin dashboard manages inventory and tracks orders",
+      "A WordPress-based website showcasing a wide range of home appliances for easy browsing and purchase, along with the company's services and completed projects.",
     tags: [
       {
         name: "wordpress",
@@ -166,7 +166,7 @@ const mProjects = [
     name: "Training Management App",
     type: "personal",
     description:
-      "A comprehensive application designed to manage training programs for company personnel, streamlining scheduling & reporting.",
+      "A comprehensive application developed to manage training programs for company personnel, streamlining scheduling & reporting.",
     tags: [
       {
         name: "php",
@@ -192,47 +192,55 @@ const Data = [
     icon: "icon-graduation",
     year: "2021 - 2024",
     title: "Bachelor's Degree in Computer Technology.",
-    desc: "I specialized in multimedia and web development, focusing on modern web technologies.",
+    desc: "Specialized in multimedia and web development with a focus on modern web technologies, gaining hands-on experience in designing and developing dynamic web solutions.",
   },
   {
     id: 2,
     category: "education",
     icon: "icon-graduation",
     year: "2017 - 2021",
-    title: "High School Diploma.",
-    desc: "I studied technical sciences, gaining a strong foundation in computer science.",
+    title: "High School Diploma in Technical Sciences",
+    desc: "Built a solid foundation in computer science and technical disciplines, fostering analytical and problem-solving skills.",
   },
   {
     id: 4,
     category: "experience",
     icon: "icon-briefcase",
-    year: "Feb 2024 - Mai 2024",
-    title: "Intern - All Tech Company",
-    desc: "Design and development of an order-taking application for restaurants using Ionic and .NET.",
+    year: "Sep 2024 - Present",
+    title: "Freelancer",
+    desc: "Designed visually appealing and impactful posters for the A.A.H.H.M Center Workshop Event.\nDeveloped a modern, user-friendly website for Bahajt United, an Omani construction company.",
   },
   {
     id: 5,
     category: "experience",
     icon: "icon-briefcase",
-    year: "Jan 2024 - Feb 2024",
-    title: "Intern - Khomsa Media",
-    desc: "Creation and management of an e-commerce website using WordPress.",
+    year: "Feb 2024 - Mai 2024",
+    title: "Intern - All Tech Company",
+    desc: "Designed and developed of an order-taking application for restaurants using Ionic and .NET.",
   },
   {
     id: 6,
     category: "experience",
     icon: "icon-briefcase",
-    year: "Jan 2023 - Feb 2023",
-    title: "Intern - Poulina Group Holding",
-    desc: "Development of a web application for managing employee training within the company.",
+    year: "Jan 2024 - Feb 2024",
+    title: "Intern - Khomsa Media",
+    desc: "Created an e-commerce website for Eram Tecno, an Omani company specializing in home appliances and air conditioning, using WordPress.",
   },
   {
     id: 7,
     category: "experience",
     icon: "icon-briefcase",
     year: "Jan 2023 - Feb 2023",
+    title: "Intern - Poulina Group Holding",
+    desc: "Developed a web application for managing employee training within the company.",
+  },
+  {
+    id: 8,
+    category: "experience",
+    icon: "icon-briefcase",
+    year: "Jan 2023 - Feb 2023",
     title: "Intern - Visteon Bir Elbey",
-    desc: "Configuration of access points and switches\nParticipation in server configuration under supervision.",
+    desc: "Configuration of access points and switches.\nParticipation in server configuration under supervision.",
   },
 ];
 
