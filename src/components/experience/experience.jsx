@@ -10,7 +10,7 @@ const experience = () => {
       <p style={{ marginBottom: "1.5rem", textAlign: "justify" }}>
         The following experiences showcase the foundation of my journey,
         including academic achievements and initial professional roles. Each
-        entry highlights the skills I developed, the challenges I tackled, and
+        entry highlights the skills i developed, the challenges I tackled, and
         the knowledge I gained, reflecting my commitment to growth and passion
         for learning.
       </p>
