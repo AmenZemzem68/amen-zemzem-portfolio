@@ -30,6 +30,7 @@ const data = [
 const skills = () => {
   return (
     <section className="services container" style={{ paddingTop: "3rem" }}>
+      <h2 className="section-title">Services.</h2>
       <div className="services-container grid">
         {data.map(({ id, image, title, description }) => {
           return (
