@@ -55,6 +55,7 @@ import workshop from "../assets/designs/workshop.png";
 import rules from "../assets/designs/rules.png";
 import kitchen from "../assets/designs/kitchen.png";
 import bag from "../assets/designs/bag.png";
+import amen2 from "../assets/amen.gif";
 const mProjects = [
   {
     name: "Bahjat Website",
@@ -544,7 +545,7 @@ const mDesigns = [
   {
     name: "My Personal Logo",
     type: "Branding",
-    image: me,
+    image: amen2,
     tags: [
       {
         name: "tech",
