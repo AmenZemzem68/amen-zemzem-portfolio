@@ -167,7 +167,7 @@ const mProjects = [
     name: "Training Management App",
     type: "personal",
     description:
-      "A comprehensive web application developed to manage training programs for company personnel, streamlining scheduling & reporting.",
+      "A comprehensive & simple web application developed to manage training programs for company personnel, streamlining scheduling & reporting.",
     tags: [
       {
         name: "php",
