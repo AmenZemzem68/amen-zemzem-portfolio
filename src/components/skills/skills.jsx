@@ -1,7 +1,6 @@
 import React from "react";
 import { Tilt } from "react-tilt";
 import Image1 from "../../assets/angular.png";
-import Image2 from "../../assets/dotnet.png";
 import Image3 from "../../assets/wordpress.png";
 import Image4 from "../../assets/illustrator.png";
 import "./skills.css";
@@ -9,22 +8,23 @@ const data = [
   {
     id: 1,
     image: Image1,
-    title: "Angular",
+    title: "Web Development",
+    description:
+      "Building responsive WordPress sites with Elementor & custom development.",
   },
   {
     id: 2,
-    image: Image2,
-    title: ".NET",
+    image: Image3,
+    title: "Wordpress Development",
+    description:
+      "Building responsive WordPress sites with Elementor & custom development.",
   },
   {
     id: 3,
-    image: Image3,
-    title: "Wordpress",
-  },
-  {
-    id: 4,
     image: Image4,
-    title: "Adobe Illustrator",
+    title: "Graphic Design",
+    description:
+      "Creating logos, character designs, and marketing materials using Illustrator.",
   },
 ];
 const skills = () => {
@@ -44,6 +44,7 @@ const skills = () => {
               <div className="services-card green-pink-gradient shadow-card">
                 <img src={image} alt={title} className="services-img" />
                 <h3 className="services-title">{title}</h3>
+                <p className="services-description">{description}</p>
               </div>
             </Tilt>
           );
