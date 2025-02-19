@@ -1,8 +1,8 @@
 import React from "react";
 import { Tilt } from "react-tilt";
-import Image1 from "../../assets/angular.png";
+import Image1 from "../../assets/web.png";
 import Image3 from "../../assets/wordpress.png";
-import Image4 from "../../assets/illustrator.png";
+import Image4 from "../../assets/design.png";
 import "./skills.css";
 const data = [
   {
