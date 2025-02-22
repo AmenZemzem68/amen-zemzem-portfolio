@@ -1,6 +1,5 @@
 import restauApp from "../assets/projects/restauapp.png";
 import bahjat from "../assets/projects/bahjat.png";
-import me from "../assets/designs/me.png";
 import eramtecno from "../assets/projects/eramtecno.jpg";
 import royal from "../assets/projects/royal-flame.png";
 import melt from "../assets/projects/melt.png";
@@ -9,7 +8,7 @@ import adidas from "../assets/designs/Adidas.jpg";
 import airJordan1 from "../assets/designs/Air Jordan 1.jpg";
 import action from "../assets/designs/action.png";
 import media from "../assets/designs/media.png";
-import sb from "../assets/designs/sb.png";
+import sb from "../assets/designs/sb.gif";
 import formation from "../assets/designs/formation.png";
 import airJordan4 from "../assets/designs/Air Jordan 4.jpg";
 import astronaut from "../assets/designs/Astronaut.jpg";
@@ -55,7 +54,7 @@ import workshop from "../assets/designs/workshop.png";
 import rules from "../assets/designs/rules.png";
 import kitchen from "../assets/designs/kitchen.png";
 import bag from "../assets/designs/bag.png";
-import amen2 from "../assets/amen.gif";
+import amen2 from "../assets/designs/amen.gif";
 const mProjects = [
   {
     name: "Bahjat Website",
