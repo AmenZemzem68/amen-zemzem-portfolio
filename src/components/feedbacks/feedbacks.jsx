@@ -21,7 +21,7 @@ const Feedbacks = () => {
       title: "Abdullah Al Malki",
       subtitle: "CEO of Bahjat Al Khawir United",
       comment:
-        "Overall, very pleased with Mr. Amen and his friendliness with us. He did everything we asked in a timely manner and maintained a professional yet approachable attitude throughout. I will definitely be recommending him to other companies. Thanks for such good work and dedication to excellence.",
+        "Overall, very pleased with Amen and his friendliness with us. He did everything we asked in a timely manner and maintained a professional yet approachable attitude throughout. I will definitely be recommending him to other companies. Thanks for such good work and dedication to excellence.",
     },
     {
       id: 2,
@@ -53,7 +53,7 @@ const Feedbacks = () => {
       title: "Mahmoud Al Maawali",
       subtitle: "Chief Executive Officer at Eram Tecno",
       comment:
-        "Amen developed an e-commerce website for us that was both functional and visually appealing. His expertise in development brought our vision to life, and the platform has been a great success. We couldn't be happier with the results and we highly recommend his services",
+        "Amen developed an e-commerce website for us that was both functional and visually appealing. His expertise in development brought our vision to life, and the website has been a great success. We couldn't be happier with the results and we highly recommend him",
     },
     {
       id: 6,
