@@ -53,7 +53,7 @@ const Feedbacks = () => {
       title: "Mahmoud Al Maawali",
       subtitle: "Chief Executive Officer at Eram Tecno",
       comment:
-        "Amen developed an e-commerce website for us that was both functional and visually appealing. His expertise in development brought our vision to life, and the website has been a great success. We couldn't be happier with the results and we highly recommend him",
+        "Amen developed an e-commerce website for us that was both functional and visually appealing. His expertise in development brought our vision to life, and the website has been a great success. We couldn't be happier with the results and we highly recommend his services",
     },
     {
       id: 6,
