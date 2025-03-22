@@ -2,7 +2,7 @@ import restauApp from "../assets/projects/restauapp.png";
 import bahjat from "../assets/projects/bahjat.png";
 import eramtecno from "../assets/projects/eramtecno.jpg";
 import royal from "../assets/projects/royal-flame.png";
-import melt from "../assets/projects/melt.png";
+import airtech from "../assets/projects/airtech.png";
 import coding from "../assets/projects/codingart.png";
 import adidas from "../assets/designs/Adidas.jpg";
 import airJordan1 from "../assets/designs/Air Jordan 1.jpg";
@@ -57,7 +57,28 @@ import bag from "../assets/designs/bag.png";
 import amen2 from "../assets/designs/amen.gif";
 const mProjects = [
   {
-    name: "Bahjat Website",
+    name: "AirTech Oman Website",
+    description:
+      "A website showcases the portfolio of Air Tech Oman, an Omani central air conditioning services company, highlighting their completed projects and services.",
+    tags: [
+      {
+        name: "wordpress",
+        color: "#AC2B61",
+      },
+      {
+        name: "air conditioning",
+        color: "#1D9275",
+      },
+      {
+        name: "portfolio",
+        color: "#43A7EC",
+      },
+    ],
+    image: airtech,
+    source_code_link: "https://airtech-oman.com/",
+  },
+  {
+    name: "Bahjat Al Khawir Website",
     description:
       "A WordPress-based website showcases the portfolio of Bahjat Al Khawir, an Omani construction company, featuring their range of completed projects and services.",
     tags: [
@@ -97,28 +118,6 @@ const mProjects = [
     ],
     image: royal,
     source_code_link: "https://royal-flame.vercel.app/",
-  },
-  {
-    name: "Melt'n'Ice Landing Page",
-    type: "personal",
-    description:
-      "Melt 'n' Ice is a sleek and modern landing page that showcases a variety of ice cream flavors, providing users with engaging browsing experience.",
-    tags: [
-      {
-        name: "react",
-        color: "#AC2B61",
-      },
-      {
-        name: "tailwind css",
-        color: "#1D9275",
-      },
-      {
-        name: "Adobe Illustrator",
-        color: "#43A7EC",
-      },
-    ],
-    image: melt,
-    source_code_link: "https://melt-n-ice.vercel.app/",
   },
   {
     name: "Restaurant Application",
