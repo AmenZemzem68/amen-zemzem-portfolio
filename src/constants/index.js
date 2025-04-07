@@ -215,7 +215,7 @@ const Data = [
     icon: "icon-briefcase",
     year: "Feb 2024 - Mai 2024",
     title: "Intern - All Tech Company",
-    desc: "Designed and developed of an order-taking application for restaurants using Ionic and .NET.",
+    desc: "Designed and developed of an order-taking application for restaurants using Ionic, Angular and .NET.",
   },
   {
     id: 6,
