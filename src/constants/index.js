@@ -191,7 +191,9 @@ const Data = [
     icon: "icon-graduation",
     year: "2021 - 2024",
     title: "Bachelor's Degree in Computer Technology.",
-    desc: "Specialized in multimedia and web development with a focus on modern web technologies, gaining hands-on experience in designing and developing dynamic web solutions.",
+    desc: [
+      "Specialized in multimedia and web development with a focus on modern web technologies, gaining hands-on experience in designing and developing dynamic web solutions.",
+    ],
   },
   {
     id: 2,
@@ -199,7 +201,9 @@ const Data = [
     icon: "icon-graduation",
     year: "2017 - 2021",
     title: "High School Diploma in Technical Sciences",
-    desc: "Built a solid foundation in computer science and technical disciplines, fostering analytical and problem-solving skills.",
+    desc: [
+      "Built a solid foundation in computer science and technical disciplines, fostering analytical and problem-solving skills.",
+    ],
   },
   {
     id: 4,
@@ -207,7 +211,10 @@ const Data = [
     icon: "icon-briefcase",
     year: "Sep 2024 - Present",
     title: "Freelancer",
-    desc: "Designed visually appealing and impactful posters for the A.A.H.H.M Center Workshop Event.\nDeveloped a modern, user-friendly website for Bahajt United, an Omani construction company.",
+    desc: [
+      "Designed visually appealing and impactful posters for the A.A.H.H.M Center Workshop Event.",
+      "Developed a modern, user-friendly website for Bahajt United, an Omani construction company.",
+    ],
   },
   {
     id: 5,
@@ -215,7 +222,9 @@ const Data = [
     icon: "icon-briefcase",
     year: "Feb 2024 - Mai 2024",
     title: "Intern - All Tech Company",
-    desc: "Designed and developed of an order-taking application for restaurants using Ionic, Angular and .NET.",
+    desc: [
+      "Designed and developed of an order-taking application for restaurants using Ionic, Angular and .NET.",
+    ],
   },
   {
     id: 6,
@@ -223,7 +232,9 @@ const Data = [
     icon: "icon-briefcase",
     year: "Jan 2024 - Feb 2024",
     title: "Intern - Khomsa Media",
-    desc: "Created an e-commerce website for Eram Tecno, an Omani company specializing in home appliances and air conditioning, using WordPress.",
+    desc: [
+      "Created an e-commerce website for Eram Tecno, an Omani company specializing in home appliances and air conditioning, using WordPress.",
+    ],
   },
   {
     id: 7,
@@ -231,7 +242,9 @@ const Data = [
     icon: "icon-briefcase",
     year: "Jan 2023 - Feb 2023",
     title: "Intern - Poulina Group Holding",
-    desc: "Developed a web application for managing employee training within the company.",
+    desc: [
+      "Developed a web application for managing employee training within the company.",
+    ],
   },
   {
     id: 8,
@@ -239,7 +252,10 @@ const Data = [
     icon: "icon-briefcase",
     year: "Jan 2023 - Feb 2023",
     title: "Intern - Visteon Bir Elbey",
-    desc: "Configuration of access points and switches.\nParticipation in server configuration under supervision.",
+    desc: [
+      "Configuration of access points and switches.",
+      "Participation in server configuration under supervision.",
+    ],
   },
 ];
 

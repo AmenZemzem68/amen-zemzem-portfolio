@@ -6,7 +6,11 @@ const card = (props) => {
       <i className={props.icon}></i>
       <span className="timline-date">{props.year}</span>
       <h3 className="timeline-title">{props.title}</h3>
-      <p className="timline-text">{props.desc}</p>
+      <ul style={{ listStyleType: "circle" }}>
+        {props.desc.map((item, index) => (
+          <li key={index}>{item}</li>
+        ))}
+      </ul>
     </div>
   );
 };
