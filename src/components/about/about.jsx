@@ -19,7 +19,7 @@ const about = () => {
           <div className="about-info">
             <p className="about-description">
               I'm a skilled web developer with experience in HTML, CSS, C#, and
-              TypeScript, and expertise in frameworks like Angular and .NET. I
+              JavaScript, and expertise in frameworks like React JS and .NET. I
               have a passion for graphic design and a keen eye for aesthetics,
               which I incorporate into my web development projects to create
               visually appealing and functional designs. I'm a quick learner and
