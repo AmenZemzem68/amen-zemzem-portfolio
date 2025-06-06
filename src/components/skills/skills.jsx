@@ -10,7 +10,7 @@ const data = [
     image: Image1,
     title: "Web Development",
     description:
-      "Building responsive WordPress sites with Elementor & custom development.",
+      "Crafting dynamic and user-friendly websites using modern frameworks and custom code.",
   },
   {
     id: 2,
