@@ -212,8 +212,10 @@ const Data = [
     year: "Sep 2024 - Present",
     title: "Freelancer",
     desc: [
-      "Designed visually appealing and impactful posters for the A.A.H.H.M Center Workshop Event.",
-      "Developed a modern, user-friendly website for Bahajt United, an Omani construction company.",
+      "Designed visually appealing and impactful posters for the A.A.H.H.M Center Workshop Event, ensuring clear communication of key messages.",
+      "Designed the logo and visual identity for SansBac, a high-end fragrance brand, crafting a sophisticated brand presence that reflects luxury, purity, and modern elegance.",
+      "Developed a modern, user-friendly website for Bahajt Al Khawir United, an Omani construction company, aligning with their brand identity and enhancing their online presence.",
+      "Developed a website for Air Tech Services, an Omani central air conditioning services company, highlighting their completed projects and services.",
     ],
   },
   {
