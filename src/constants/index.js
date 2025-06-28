@@ -225,7 +225,7 @@ const Data = [
     year: "Feb 2024 - Mai 2024",
     title: "Intern - All Tech Company",
     desc: [
-      "Designed and developed of an order-taking application for restaurants using Ionic, Angular and .NET.",
+      "Designed and developed of an order-taking application for restaurants using Ionic, Angular, Microsoft SQL Server and .NET.",
     ],
   },
   {
