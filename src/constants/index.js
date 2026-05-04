@@ -1,5 +1,6 @@
 import restauApp from "../assets/projects/restauapp.png";
 import bahjat from "../assets/projects/bahjat.png";
+import fsa from "../assets/projects/fsa.png";
 import eramtecno from "../assets/projects/eramtecno.jpg";
 import royal from "../assets/projects/royal-flame.png";
 import airtech from "../assets/projects/airtech.png";
@@ -56,6 +57,27 @@ import kitchen from "../assets/designs/kitchen.png";
 import bag from "../assets/designs/bag.png";
 import amen2 from "../assets/designs/amen.gif";
 const mProjects = [
+  {
+    name: "Future Skills Academy Website",
+    description:
+      "A website showcases the profile of Future Skills Academy, a training institute focused on future-ready skills, highlighting their programs.",
+    tags: [
+      {
+        name: "wordpress",
+        color: "#AC2B61",
+      },
+      {
+        name: "soft skills",
+        color: "#1D9275",
+      },
+      {
+        name: "portfolio",
+        color: "#43A7EC",
+      },
+    ],
+    image: fsa,
+    source_code_link: "https://goldenrod-goshawk-484764.hostingersite.com/",
+  },
   {
     name: "AirTech Oman Website",
     description:
